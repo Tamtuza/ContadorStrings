@@ -1,0 +1,46 @@
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\StringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStringCounter.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\StringCounter.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\StringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStringCounter.resources
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\StringCounter.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\StringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStringCounter.resources
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter\WindowsFormsApplication1\obj\Debug\StringCounter.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\StringCounter.csprojResolveAssemblyReference.cache
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStringCounter.resources
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\Matérias\2013 - 2\Autômatos\2º Trabalho de Autômatos [12-08]\StringCounter2\WindowsFormsApplication1\obj\Debug\StringCounter.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\StringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStringCounter.resources
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\StringCounter2\WindowsFormsApplication1\obj\Debug\StringCounter.csproj.GenerateResource.Cache

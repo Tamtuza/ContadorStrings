@@ -1,0 +1,1 @@
+Autômato que recebe arquivo de texto (o usuário deve selecionar arquivo que deseja ler) e informa quantas palavras o arquivo possui, bem como quantidade de letras em cada palavra e qual o alfabeto presente no texto.
